@@ -1,0 +1,8 @@
+# Python 3.11+. Versões testadas em 19/11/2026 com Python 3.13
+groq>=1.7,<2
+anthropic>=2.11,<3
+mcp>=2.3,<3
+streamlit>=1.67,<2
+python-dotenv>=1.2,<2
+# Servidor MCP Brasil 0.14.0 (MIT), código-fonte incluído nesta pasta; não é baixado do PyPI
+./servidor_mcp/mcp-brasil-0.14.0
